@@ -1,0 +1,11 @@
+{
+    "audit_date": "20250304_140248",
+    "statistics": {
+        "total_records": 17,
+        "mismatches": 3,
+        "missing_in_payroll": 2,
+        "missing_in_hr": 2,
+        "total_discrepancy_amount": 800.0
+    },
+    "departments_with_discrepancies": 5
+}

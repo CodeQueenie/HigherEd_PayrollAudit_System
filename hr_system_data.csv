@@ -1,0 +1,16 @@
+EmployeeID,FirstName,LastName,Position,Department,Pay,PayPeriodEnd,EmploymentStatus
+FAC001,John,Smith,Professor,Mathematics,85000.00,2025-02-28,Active
+FAC002,Maria,Garcia,Associate Professor,Biology,75000.00,2025-02-28,Active
+ADJ001,Robert,Johnson,Adjunct Professor,English,45000.00,2025-02-28,Active
+STF001,Sarah,Williams,Administrative Assistant,Student Services,42000.00,2025-02-28,Active
+FAC003,David,Lee,Professor,Computer Science,88000.00,2025-02-28,Active
+STF002,Emily,Brown,Financial Analyst,Finance,55000.00,2025-02-28,Active
+ADJ002,Michael,Taylor,Adjunct Professor,History,44000.00,2025-02-28,Active
+FAC004,Lisa,Anderson,Associate Professor,Chemistry,76000.00,2025-02-28,Active
+STF003,James,Martin,IT Support Specialist,Information Technology,48000.00,2025-02-28,Active
+FAC005,Jennifer,Wilson,Professor,Physics,87000.00,2025-02-28,Active
+STF004,William,Moore,Library Assistant,Library,40000.00,2025-02-28,Active
+ADJ003,Patricia,White,Adjunct Professor,Psychology,43500.00,2025-02-28,Active
+FAC006,Richard,Thomas,Associate Professor,Sociology,74000.00,2025-02-28,Active
+STF005,Elizabeth,Jackson,Lab Coordinator,Biology,46000.00,2025-02-28,Active
+FAC007,Susan,Harris,Professor,Economics,86000.00,2025-02-28,Active
