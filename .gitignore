@@ -43,3 +43,9 @@ ENV/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Private files
+PRIVATE_ROADMAP.md
+*PRIVATE*
+*private*
+PERSONAL_NOTES.md

@@ -23,6 +23,10 @@ A comprehensive Python-based system designed for higher education institutions t
   - Department comparison charts for HR vs. Payroll systems
   - Pie charts displaying the distribution of issues found
   - All charts saved as PNG files for easy inclusion in reports and presentations
+- **Interactive Analysis**:
+  - Jupyter notebook for interactive data exploration
+  - Custom analysis capabilities
+  - Visual report display and interpretation
 
 ## Requirements
 
@@ -93,6 +97,11 @@ Generate visual reports from the latest audit:
 python visual_report_generator.py
 ```
 
+Interactive exploration with Jupyter notebook:
+```bash
+jupyter notebook EduPayAudit.ipynb
+```
+
 ## Output
 
 The tool generates two types of output files in the `output` directory:
@@ -127,3 +136,25 @@ This tool is designed to meet educational institution audit requirements:
 - Maintain audit logs for compliance purposes
 - Document any manual adjustments
 - Regular backup of reconciliation reports
+
+## License and Attribution
+
+This project is licensed under the MIT License with an attribution requirement - see the [LICENSE](LICENSE) file for details.
+
+> **Note**: This version (v1.0) is released under MIT License for demonstration and portfolio purposes. Future versions may be released under different licensing terms.
+
+### Attribution Requirements
+
+When using this software or substantial portions of it, you must include the following attribution:
+
+> Created by Nicole LeGuern (CodeQueenie). Original repository: https://github.com/CodeQueenie/HigherEd_PayrollAudit_System
+
+This attribution may be included in:
+- Documentation
+- "About" section of your application
+- Code comments
+- Credits file that ships with your software
+
+### Author
+
+**Nicole LeGuern** (GitHub: [CodeQueenie](https://github.com/CodeQueenie))

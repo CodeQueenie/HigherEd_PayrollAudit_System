@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "LeGuern"
+    given-names: "Nicole"
+    orcid: ""  # Add your ORCID if available
+title: "EduPayAudit: Higher Education Payroll Compliance & Reconciliation System"
+version: 1.0.0
+date-released: 2025-03-05
+url: "https://github.com/CodeQueenie/HigherEd_PayrollAudit_System"
+repository-code: "https://github.com/CodeQueenie/HigherEd_PayrollAudit_System"
+license: MIT
+license-url: "https://github.com/CodeQueenie/HigherEd_PayrollAudit_System/blob/main/LICENSE"
+abstract: >-
+  A comprehensive Python-based system designed for higher education institutions to perform 
+  detailed payroll reconciliation and compliance auditing. This tool helps ensure accuracy 
+  between HR and Payroll systems while maintaining audit compliance standards.
+keywords:
+  - payroll
+  - higher-education
+  - reconciliation
+  - audit
+  - compliance

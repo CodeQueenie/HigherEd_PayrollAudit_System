@@ -1,3 +1,14 @@
+"""
+EduPayAudit: Higher Education Payroll Compliance & Reconciliation System
+Copyright (c) 2025 Nicole LeGuern (CodeQueenie)
+MIT License with Attribution Requirement
+
+When using this software or substantial portions of it, you must include the following attribution:
+"Created by Nicole LeGuern (CodeQueenie). Original repository: https://github.com/CodeQueenie/HigherEd_PayrollAudit_System"
+
+See the LICENSE file for full details.
+"""
+
 import pandas as pd
 import sys
 from datetime import datetime
